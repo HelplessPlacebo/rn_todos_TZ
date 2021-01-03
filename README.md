@@ -1,1 +1,1 @@
-#simple test task by react native
+#simple test task by react native with expo
